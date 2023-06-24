@@ -1,3 +1,3 @@
 This is FileC c
 lET'S Make a change
-this iid for squash merge
+tHIS is for squash merge
