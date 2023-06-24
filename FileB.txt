@@ -1,3 +1,5 @@
 This is FileB
 This is a change ti the file
-121212
+Let' s make a change
+Making another change
+tHIS is for squash merge
