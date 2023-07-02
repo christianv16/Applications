@@ -1,3 +1,0 @@
-This is FileC c
-lET'S Make a change
-tHIS is for squash merge
